@@ -1,0 +1,13 @@
+assumptions to be met for linear regression:
+- Linearity 
+- Homoscedacity 
+- Normality 
+- Independence of Observations
+
+Multiple linear regression:
+- Collinearity 
+- Polynomial Regression 
+Measuring Regression performance 
+- MAE (smaller MAE better model)
+- Residual sum of squares (Lower RSS better model)
+- R-squared (Co-efficient of determination)
