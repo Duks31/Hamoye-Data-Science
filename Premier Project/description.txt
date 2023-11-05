@@ -1,0 +1,3 @@
+This dataset records all legal species imports and exports carried out in 2016 (and a few records from 2017) 
+and reported to CITES. With myriads of possibilities to explore with the dataset, 
+determine what your group’s topic will be.
